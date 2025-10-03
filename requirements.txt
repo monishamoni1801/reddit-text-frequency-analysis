@@ -1,0 +1,10 @@
+praw
+textblob
+wordcloud
+matplotlib
+numpy
+pandas
+plotly
+
+Way to install the above libraries
+pip install -r requirements.txt
